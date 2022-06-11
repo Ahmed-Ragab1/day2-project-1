@@ -26,3 +26,6 @@ please make sure to open
 ## licence 
 
  [MIT](http) 
+ 
+ ![python image](https://github.com/Ahmed-Ragab1/day2-project-1/blob/main/images/1.png)
+ 
